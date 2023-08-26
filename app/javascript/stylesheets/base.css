@@ -1,0 +1,12 @@
+h1 {
+  margin: 30px 0;
+}
+
+.boards_tabl tr:hover {
+  cursor:pointer;
+}
+
+.boards_linkBox a{
+  margin:0 8px;
+
+}
